@@ -33,7 +33,7 @@
  
  
  ### 🤝 &nbsp;Let's get in touch!
- 
+  <br>
  <p>
 
  <a href="https://linkedin.com/in/tazlo-zoli"><img src="https://img.shields.io/badge/tazlo-zoli-7021b1195?style=flat&logo=Linkedin&logoColor=white" /></a>
