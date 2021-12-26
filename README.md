@@ -29,7 +29,6 @@
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
  
  <br>
- </br>
  <hr/>
  
  ### 🤝 &nbsp;Let's get in touch!
