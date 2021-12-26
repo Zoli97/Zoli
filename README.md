@@ -1,5 +1,5 @@
 <h1 align="center">Hi all 🖖, I'm Tazlo Zoltan<h1>
- <h3 align="center">A passionate Junior Frontend devolper based in Romania.</h3>
+ <h3 align="center">A passionate Junior Frontend developer and Design UI/UX based in Romania.</h3>
  
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zoli97&color=blueviolet&style=flat">
@@ -24,9 +24,13 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
  <br>
- </br>
+ </br />
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
+ <br>
+ </br />
+ ![Figma](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![Adobe XD](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
  <br>
  
  <hr/>
