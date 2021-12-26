@@ -9,7 +9,8 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Zoli97?tab=repositories)
  
  <hr />
-  
+   <br>
+ 
  ### 🛠 &nbsp;Languages and Tools
   <br>
  
