@@ -27,9 +27,7 @@
  <br />
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
- <br>
- <br />
- ![Figma](http://img.shields.io/badge/Figma%20-007ACC?style=for-the-badge&logo=Figma&logoColor=ffffff)
+![Figma](http://img.shields.io/badge/Figma%20-007ACC?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/AdobeXD-0078D6?style=for-the-badge&logo=Adobe-XD&logoColor=ffffff)
  <br>
  
