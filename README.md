@@ -24,12 +24,12 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
  <br>
- </br />
+ <br />
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
  <br>
- </br />
- ![Figma](http://img.shields.io/badge/Figma%20Code-007ACC?style=for-the-badge&logo=Figma&logoColor=ffffff)
+ <br />
+ ![Figma](http://img.shields.io/badge/Figma%20-007ACC?style=for-the-badge&logo=Figma&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/AdobeXD-0078D6?style=for-the-badge&logo=Adobe-XD&logoColor=ffffff)
  <br>
  
