@@ -1,4 +1,4 @@
-<h1>Hi all 🖖, I'm Tazlo Zoltan<h1>
+<h1 align="center">Hi all 🖖, I'm Tazlo Zoltan<h1>
  <h3 align="center">A passionate Junior Frontend devolper based in Romania.</h3>
  
  <p align="center">
