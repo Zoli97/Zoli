@@ -46,7 +46,7 @@
  <div align="center">
 
  <a href="https://github.com/Zoli97">
-        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Zoli97&show_icons=true&theme=github_dark&hide_border=false&border_radius=20&border_color=480ca8&count_private=true&custom_title=Zoli97's%20Github%20Stats" />
+        <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Zoli97&show_icons=true&theme=github_dark&hide_border=false&border_radius=20&border_color=c1121f&count_private=true&custom_title=Zoli97's%20Github%20Stats" />
         <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zoli97&layout=compact&langs_count=8&theme=algolia" />
     </a>
  </div>
