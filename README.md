@@ -36,7 +36,7 @@
  
  <p>
 
- <a href="https://linkedin.com/in/tazlo-zoli"><img src="https://img.shields.io/badge/-tazlo-zoli-7021b1195?style=flat&logo=Linkedin&logoColor=white" /></a>
+ <a href="https://linkedin.com/in/tazlo-zoli"><img src="https://img.shields.io/badge/tazlo-zoli-7021b1195?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="https://facebook.com"><img src="https://img.shields.io/badge/-Tazlo Zoli-1877F2?style=flat&logo=Facebook&logoColor=white" /></a>
 </p>
  <hr />
