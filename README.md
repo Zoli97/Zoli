@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Zoli97&color=blueviolet&style=flat">
  </p>
  
-- 🌱 I’m currently learning ***GSAP library for animations, React, etc.***
+- 🌱 I’m currently learning ***Anime.js library for animations, React, etc.***
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Zoli97?tab=repositories)
  
  <hr />
